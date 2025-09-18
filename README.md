@@ -1,3 +1,14 @@
+<<<<<<< HEAD
+# Simple Blackjack
+
+This is a small command-line Blackjack game implemented in `blackjack.py`.
+
+Run:
+
+```bash
+python3 blackjack.py
+```
+
 # Simple Blackjack
 
 This is a small command-line Blackjack game implemented in `blackjack.py`.
@@ -26,3 +37,7 @@ Doubling and Splitting:
 
 - Double down: When you have exactly two cards you may choose to double (`d`) if you have enough bankroll. Your bet is matched, you receive exactly one more card, and the hand then stands.
 - Split: If your initial two cards are a pair (same rank) and you have enough bankroll for a second bet, you will be offered to split into two separate hands. Each hand receives another card and is played independently; the second bet is placed immediately.
+
+# training2025
+
+This repository contains the simple Blackjack CLI used for training.
